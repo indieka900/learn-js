@@ -4,16 +4,22 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node app.js",
     "dev": "nodemon app.js",
+=======
+>>>>>>> 8819de47231b79865cdb35ca6f9429eeffe85dd3
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+<<<<<<< HEAD
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
+=======
+>>>>>>> 8819de47231b79865cdb35ca6f9429eeffe85dd3
   }
 }
